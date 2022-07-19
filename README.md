@@ -22,5 +22,15 @@ What will I learn tomorrow? Will revisit the concept of slice, dice demo and do 
 
 What issues are blocking my progress? Not right now.
 
+- 19th July 2022
+
+Day-19 : DE
+
+What did I learn today? Learnt the sql's for  OLAP cube, rollup, drilldown, slice, dice, group sets under Lesson 2 in Azure Data warehouse.
+
+What will I learn tomorrow? Will do the exercises on slice, dice, rollup, drilldown.
+
+What issues are blocking my progress? Not right now.
+
 
 
