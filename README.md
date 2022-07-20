@@ -32,5 +32,15 @@ What will I learn tomorrow? Will do the exercises on slice, dice, rollup, drilld
 
 What issues are blocking my progress? Not right now.
 
+- 20th July 2022
+
+Day-20 : DE
+
+What did I learn today? Did the exercise on slice, dice.
+
+What will I learn tomorrow? Will do the exercises on rollup, drilldown.
+
+What issues are blocking my progress? Not right now.
+
 
 
