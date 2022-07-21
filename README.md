@@ -42,5 +42,16 @@ What will I learn tomorrow? Will do the exercises on rollup, drilldown.
 
 What issues are blocking my progress? Not right now.
 
+- 21st July 2022
+
+Day-21 : DE
+
+What did I learn today? Heavy day at work today. Took a break today.
+
+What will I learn tomorrow? Will do the exercises on rollup, drilldown.
+
+What issues are blocking my progress? Not right now.
+
+
 
 
