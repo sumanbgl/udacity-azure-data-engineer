@@ -52,6 +52,16 @@ What will I learn tomorrow? Will do the exercises on rollup, drilldown.
 
 What issues are blocking my progress? Not right now.
 
+- 22nd July 2022
+
+Day-22 : DE
+
+What did I learn today? Learnt the concept of OLAP Cube, ROLAP and MOLAP. Completed Lesson3 - ELT and Cloud DWH Technology.
+
+What will I learn tomorrow? Will redo the exercises on slice, dice, rollup, drilldown, grouping sets, OLAP Cube.
+
+What issues are blocking my progress? Not right now.
+
 
 
 
