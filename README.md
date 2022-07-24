@@ -73,6 +73,17 @@ What will I learn tomorrow? Will redo the exercises on slice, dice, rollup, dril
 
 What issues are blocking my progress? Not right now.
 
+- 24th July 2022
+
+Day-24 : DE
+
+What did I learn today? Completed Lesson 4 Azure Data Warehouse Technologies.
+
+What will I learn tomorrow? Will start Implementing Data Warehouses in Azure. Plan to complete till concept 3.
+
+What issues are blocking my progress? Not right now
+
+
 
 
 
