@@ -83,8 +83,12 @@ What will I learn tomorrow? Will start Implementing Data Warehouses in Azure. Pl
 
 What issues are blocking my progress? Not right now
 
+- 25th July 2022
 
+Day-25 : DE
 
+What did I learn today? Started the lesson Implementing Data Warehouses in Azure. Complete till concept 4 - Azure Datawarehouse concepts quizzes
 
+What will I learn tomorrow? Complete concept 5,6, 7 in the lesson Implementing Data Warehouses in Azure
 
-
+What issues are blocking my progress? Not right now.
