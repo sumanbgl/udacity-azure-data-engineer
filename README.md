@@ -103,3 +103,13 @@ What will I learn tomorrow? Plan to complete concept 5,6 in the lesson Implement
 
 What issues are blocking my progress? Not right now.
 
+- 27th July 2022
+
+Day-27 : DE
+
+What did I learn today? Completed concepts 5,6  in lesson  Implementing Data Warehouses in Azure
+
+What will I learn tomorrow? Plan to complete concept 10,11,12,13 in the lesson Implementing Data Warehouses in Azure
+
+What issues are blocking my progress? Not right now.
+
