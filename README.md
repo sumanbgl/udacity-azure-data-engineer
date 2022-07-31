@@ -133,5 +133,16 @@ What will I learn tomorrow? Will start working on project 3.
 
 What issues are blocking my progress? Not right now.
 
+- 31st July 2022
+
+Day-30 : DE
+
+What did I learn today? Completed concepts 5 and started doing exercise 12  in lesson  Implementing Data Warehouses in Azure
+
+What will I learn tomorrow? Will complete exercise 12 and will start working on project 3.
+
+What issues are blocking my progress? Not right now.
+
+
 
 
