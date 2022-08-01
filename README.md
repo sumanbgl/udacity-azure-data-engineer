@@ -143,6 +143,17 @@ What will I learn tomorrow? Will complete exercise 12 and will start working on 
 
 What issues are blocking my progress? Not right now.
 
+- 1st August 2022
+
+Day-31 : DE
+
+What did I learn today? Started working on project 3. Cloned the starter code and understood the working of the script that creates the database and tables.
+
+What will I learn tomorrow? will continue working on project 3.
+
+What issues are blocking my progress? Not right now.
+
+
 
 
 
