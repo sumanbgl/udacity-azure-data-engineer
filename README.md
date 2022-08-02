@@ -153,6 +153,16 @@ What will I learn tomorrow? will continue working on project 3.
 
 What issues are blocking my progress? Not right now.
 
+- 2nd August 2022
+
+Day-32 : DE
+
+What did I learn today? Continued working on project 3. Completed Task 1, creating azure resources.
+
+What will I learn tomorrow? Will start working on Task 2 of project 3.
+
+What issues are blocking my progress? Not right now.
+
 
 
 
