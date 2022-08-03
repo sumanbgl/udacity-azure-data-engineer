@@ -163,7 +163,12 @@ What will I learn tomorrow? Will start working on Task 2 of project 3.
 
 What issues are blocking my progress? Not right now.
 
+- 3rd August 2022
 
+Day-33 : DE
 
+What did I learn today? Learnt the hadoop ecosystem and mapreduce concepts. Pausing project 3 work due to heavy work day, will resume project work on weekend.
 
+What will I learn tomorrow? Plan to learn the Spark concepts.
 
+What issues are blocking my progress? Not right now
