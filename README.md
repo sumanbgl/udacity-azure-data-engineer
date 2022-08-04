@@ -172,3 +172,14 @@ What did I learn today? Learnt the hadoop ecosystem and mapreduce concepts. Paus
 What will I learn tomorrow? Plan to learn the Spark concepts.
 
 What issues are blocking my progress? Not right now
+
+
+- 4th August 2022
+
+Day-34 : DE
+
+What did I learn today? Learnt the concept of Spark, Spark Cluster and Spark usecases.
+
+What will I learn tomorrow? will resume project 3.
+
+What issues are blocking my progress? Not right now.
