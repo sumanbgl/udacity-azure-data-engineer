@@ -183,3 +183,14 @@ What did I learn today? Learnt the concept of Spark, Spark Cluster and Spark use
 What will I learn tomorrow? will resume project 3.
 
 What issues are blocking my progress? Not right now.
+
+- 5th August 2022
+
+Day-35 : DE
+
+What did I learn today? Learnt the concept of Datalake, DataLakehouse, it's pros and cons and usage of Spark to build DataLakehouse. Resumed work on project 3.
+
+What will I learn tomorrow? will continue work on project 3.
+
+What issues are blocking my progress? Not right now.
+
