@@ -194,3 +194,14 @@ What will I learn tomorrow? will continue work on project 3.
 
 What issues are blocking my progress? Not right now.
 
+- 6th August 2022
+
+Day-36 : DE
+
+What did I learn today? Attended the weekly connect session. Redid the exercises on building azure datawarehouse. Resumed work on project 3. loaded the data.
+
+What will I learn tomorrow? Design the star schema, complete other project 3 steps. Submit project 3 for evaluation.
+
+What issues are blocking my progress? Not right now.
+
+
