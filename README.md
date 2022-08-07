@@ -204,4 +204,13 @@ What will I learn tomorrow? Design the star schema, complete other project 3 ste
 
 What issues are blocking my progress? Not right now.
 
+Day-37 : DE
+
+What did I learn today? Attended the session on Azure Cost Management. In the lesson Data Wrangling with Spark, completed till concept 10.
+
+What will I learn tomorrow? Will continue with next 5 concepts in the lesson Data Wrangling with Spark.
+
+What issues are blocking my progress? Not feeling well, unable to submit project 3 on time. Plan to work and submit it next week, as it is a long weekend and will have some time.
+
+
 
