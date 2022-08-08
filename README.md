@@ -212,5 +212,12 @@ What will I learn tomorrow? Will continue with next 5 concepts in the lesson Dat
 
 What issues are blocking my progress? Not feeling well, unable to submit project 3 on time. Plan to work and submit it next week, as it is a long weekend and will have some time.
 
+Day-38 : DE
+
+What did I learn today? In the lesson Data Wrangling with Spark, completed till concept 17.
+
+What will I learn tomorrow? Will continue with next 2 concepts in the lesson Data Wrangling with Spark.
+
+What issues are blocking my progress? nothing as of now.
 
 
