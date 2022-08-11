@@ -220,4 +220,14 @@ What will I learn tomorrow? Will continue with next 2 concepts in the lesson Dat
 
 What issues are blocking my progress? nothing as of now.
 
+- 9,10,11 August 2022
+Day-39, Day-40, Day-41 : DE (Posting updates for previous two days, due to sickness was unable to post updates for past 2 days)
+
+What did I learn today? Covered concepts 18-23 in lesson Data Wrangling with Spark. (Day-39 : covered concepts 18,19. Day-40: covered concepts 20,21. Day-41: covered concepts 22,23)
+
+What will I learn tomorrow? complete concepts 24,25,26 in lesson Data Wrangling with Spark and resume project 3 work.
+
+What issues are blocking my progress? getting limited time due to sickness. Hope to be back to normal very soon.
+
+
 
