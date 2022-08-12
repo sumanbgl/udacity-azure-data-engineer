@@ -229,5 +229,14 @@ What will I learn tomorrow? complete concepts 24,25,26 in lesson Data Wrangling 
 
 What issues are blocking my progress? getting limited time due to sickness. Hope to be back to normal very soon.
 
+- 12 August 2022
+Day-42 : DE
+
+What did I learn today? Learnt the concept of Spark SQL, did the Spark SQL exercise and learnt RDD concept.
+
+What will I learn tomorrow? Will continue working on project 3.
+
+What issues are blocking my progress? Nothing so far.
+
 
 
