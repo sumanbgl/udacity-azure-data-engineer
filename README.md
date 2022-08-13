@@ -238,5 +238,15 @@ What will I learn tomorrow? Will continue working on project 3.
 
 What issues are blocking my progress? Nothing so far.
 
+- 13 August 2022
+Day-43: DE
+
+What did I learn today? Learnt the python data structures - list,set,tuples. Attended weekly connect session and gathered more information on big data ecosystem tools.
+
+What will I learn tomorrow? Complete project 3 and submit it for review.
+
+What issues are blocking my progress? Azure cloud sessions timeout before I arrive at a solution and implement it. Have to do the setup again from scratch.
+
+
 
 
