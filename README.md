@@ -247,6 +247,16 @@ What will I learn tomorrow? Complete project 3 and submit it for review.
 
 What issues are blocking my progress? Azure cloud sessions timeout before I arrive at a solution and implement it. Have to do the setup again from scratch.
 
+- 14 August 2022
+Day-44: DE
+
+What did I learn today? Learnt  good number of new python concepts - lists, sets, dictionaries, zip, enumerate, iterable, lambda. Did the local postgres setup to load project 3 data for analysis. Working on developing start schema for project 3.
+
+What will I learn tomorrow? Complete project 3 and submit it for review.
+
+What issues are blocking my progress? Nothing at this point.
+
+
 
 
 
