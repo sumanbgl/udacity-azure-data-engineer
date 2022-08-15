@@ -256,6 +256,16 @@ What will I learn tomorrow? Complete project 3 and submit it for review.
 
 What issues are blocking my progress? Nothing at this point.
 
+- 15 August 2022
+Day-45: DE
+
+What did I learn today? Completed concepts 1-6 in the lesson Spark Debugging and Optimization.
+
+What will I learn tomorrow? Plan to complete concept 7-8 in the lesson Spark Debugging and Optimization.
+
+What issues are blocking my progress? Nothing at this point.
+
+
 
 
 
