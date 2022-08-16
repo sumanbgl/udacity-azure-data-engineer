@@ -265,8 +265,12 @@ What will I learn tomorrow? Plan to complete concept 7-8 in the lesson Spark Deb
 
 What issues are blocking my progress? Nothing at this point.
 
+- 16 August 2022
+Day-46: DE
 
+What did I learn today? Break day today due to hectic work.
 
+What will I learn tomorrow? Plan to complete concept 7-8 in the lesson Spark Debugging and Optimization.
 
-
+What issues are blocking my progress? Nothing at this point.
 
