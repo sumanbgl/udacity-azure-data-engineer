@@ -274,3 +274,12 @@ What will I learn tomorrow? Plan to complete concept 7-8 in the lesson Spark Deb
 
 What issues are blocking my progress? Nothing at this point.
 
+- 17 August 2022
+Day-47: DE
+
+What did I learn today? Learnt concepts of Accumulator and Spark Broadcast  in the lesson Spark Debugging and Optimization..
+
+What will I learn tomorrow? Plan to do the Spark Broadcast exercise.
+
+What issues are blocking my progress? Nothing at this point.
+
