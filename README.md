@@ -283,3 +283,12 @@ What will I learn tomorrow? Plan to do the Spark Broadcast exercise.
 
 What issues are blocking my progress? Nothing at this point.
 
+- 18 August 2022
+Day-48: DE
+
+What did I learn today? Did the Spark Broadcast exercise, learnt the data skewness concept and identifying it,   in the lesson Spark Debugging and Optimization..
+
+What will I learn tomorrow? Plan learn techniques to solve data skewness issues in the lesson Spark Debugging and Optimization.
+
+What issues are blocking my progress? Nothing at this point.
+
