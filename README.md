@@ -292,3 +292,13 @@ What will I learn tomorrow? Plan learn techniques to solve data skewness issues 
 
 What issues are blocking my progress? Nothing at this point.
 
+- 19 August 2022
+Day-49: DE
+
+What did I learn today?Completed concepts 14 and 15 and the lesson Spark Debugging and Optimization..
+
+What will I learn tomorrow? Plan to start lesson Databricks.
+
+What issues are blocking my progress? Nothing at this point.
+
+
