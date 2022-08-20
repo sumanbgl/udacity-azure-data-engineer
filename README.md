@@ -301,4 +301,12 @@ What will I learn tomorrow? Plan to start lesson Databricks.
 
 What issues are blocking my progress? Nothing at this point.
 
+- 20 August 2022
+Day-50: DE
+
+What did I learn today? Completed all the concepts in the lesson Azure Databricks.
+
+What will I learn tomorrow? Plan redo exercise 14 in Azure Databricks. Start the lesson Data lakes and lakehouse with Azure Databricks.
+
+What issues are blocking my progress? Nothing at this point.
 
