@@ -310,3 +310,12 @@ What will I learn tomorrow? Plan redo exercise 14 in Azure Databricks. Start the
 
 What issues are blocking my progress? Nothing at this point.
 
+- 21 August 2022
+Day-51 : DE
+
+What did I learn today? Completed all the concepts in the lesson Data lakes and lakehouse with Azure Databricks. Attended weekly connect session.
+
+What will I learn tomorrow? Plan to do exercise 14 in Azure Databricks and exercise 11,12 in Data lakes and lakehouse with Azure Databricks.
+
+What issues are blocking my progress? Nothing at this point.
+
