@@ -319,3 +319,11 @@ What will I learn tomorrow? Plan to do exercise 14 in Azure Databricks and exerc
 
 What issues are blocking my progress? Nothing at this point.
 
+- 23 August 2022
+Day-52 : DE 
+What did I learn today? Resumed working on project 3. Started the schema design.
+
+What will I learn tomorrow? Will work on completing the project 3 schema design.
+
+What issues are blocking my progress? Nothing at this point.
+
