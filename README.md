@@ -327,3 +327,12 @@ What will I learn tomorrow? Will work on completing the project 3 schema design.
 
 What issues are blocking my progress? Nothing at this point.
 
+- 24 August 2022
+Day-53 : DE
+
+What did I learn today? Designed 2 dimensions tables for project 3.
+
+What will I learn tomorrow? Will continue work on  project 3 schema design.
+
+What issues are blocking my progress? Nothing at this point.
+
