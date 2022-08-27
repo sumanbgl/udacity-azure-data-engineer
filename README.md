@@ -354,3 +354,11 @@ What did I learn today? Designed 1 dimension tables for project 3.
 What will I learn tomorrow? Will continue work on  project 3 schema design.
 
 What issues are blocking my progress? Nothing at this point.
+
+- 27 August 2022
+Day-56 : DE
+What did I learn today? Started designing fact table for project 3.
+
+What will I learn tomorrow? Will continue work on  project 3 schema design.
+
+What issues are blocking my progress? Nothing at this point.
