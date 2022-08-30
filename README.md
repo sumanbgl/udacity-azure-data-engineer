@@ -378,3 +378,11 @@ What did I learn today? Designed dimension tables for requirement 2 in project 3
 What will I learn tomorrow? Will continue work on  project 3 schema design.
 
 What issues are blocking my progress? Nothing at this point.
+
+- 30 August 2022
+Day-59 : DE
+What did I learn today? Designed fact table for requirement 2 in project 3.
+
+What will I learn tomorrow? Will continue work on  project 3 schema design.
+
+What issues are blocking my progress? Nothing at this point.
