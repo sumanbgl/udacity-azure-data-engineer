@@ -386,3 +386,12 @@ What did I learn today? Designed fact table for requirement 2 in project 3.
 What will I learn tomorrow? Will continue work on  project 3 schema design.
 
 What issues are blocking my progress? Nothing at this point.
+
+- 31 August 2022
+Day-60 : DE
+What did I learn today? Project 3 Star Schema Design and relevant SQL are ready.
+
+What will I learn tomorrow? Execute the SQL's in Azure Synapse Analytics workspace.
+
+What issues are blocking my progress? Trip table data insertion is taking more time than the Azure session.
+
