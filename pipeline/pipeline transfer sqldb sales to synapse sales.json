@@ -1,0 +1,79 @@
+{
+	"name": "pipeline transfer sqldb sales to synapse sales",
+	"properties": {
+		"activities": [
+			{
+				"name": "Data flow transfer sqldb sales to synapse sales",
+				"type": "ExecuteDataFlow",
+				"dependsOn": [],
+				"policy": {
+					"timeout": "0.12:00:00",
+					"retry": 0,
+					"retryIntervalInSeconds": 30,
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"dataflow": {
+						"referenceName": "load sqldb sales to synapse sales",
+						"type": "DataFlowReference"
+					},
+					"staging": {
+						"linkedService": {
+							"referenceName": "ls_dlg2_staging",
+							"type": "LinkedServiceReference"
+						},
+						"folderPath": "democontainer/staging"
+					},
+					"compute": {
+						"coreCount": 16,
+						"computeType": "General"
+					},
+					"traceLevel": "Fine"
+				}
+			},
+			{
+				"name": "Data flow transfer sqldb customer to synapse customer",
+				"type": "ExecuteDataFlow",
+				"dependsOn": [
+					{
+						"activity": "Data flow transfer sqldb sales to synapse sales",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					}
+				],
+				"policy": {
+					"timeout": "0.12:00:00",
+					"retry": 0,
+					"retryIntervalInSeconds": 30,
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"dataflow": {
+						"referenceName": "dataflow load customer sqldb to synapse",
+						"type": "DataFlowReference"
+					},
+					"staging": {
+						"linkedService": {
+							"referenceName": "ls_dlg2_staging",
+							"type": "LinkedServiceReference"
+						},
+						"folderPath": "democontainer/staging"
+					},
+					"compute": {
+						"coreCount": 16,
+						"computeType": "General"
+					},
+					"traceLevel": "Fine"
+				}
+			}
+		],
+		"annotations": [],
+		"lastPublishTime": "2022-09-25T08:42:31Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
+}
